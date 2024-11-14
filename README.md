@@ -1,6 +1,6 @@
 # Fish Eating Gesture Recognition
-This project is a part of the [Data Science Project](https://medium.com/) that focus on exploration and recognition of whether fish is in eating position or not).
-#### -- Project Status: [Active]
+This project is a part of the Efishery's technical test that focus on exploration and recognition of whether fish is in eating position or not).
+#### -- Project Status: [Archieved]
 
 ## Project Intro/Objective
 The purpose of this project is to predict fish eating psition. 
